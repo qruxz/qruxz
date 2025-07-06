@@ -4,7 +4,7 @@
 🎯 Currently building: [Your Project Name or Portfolio](https://yourwebsite.com)  
 📚 Learning Next.js, TypeScript, and Cloud Deployment  
 💬 Ask me about JavaScript, React, Tailwind, or design systems  
-📫 Reach me at: [your@email.com] | [LinkedIn](https://linkedin.com/in/yourprofile)
+📫 Reach me at: [ramyixi@gmail.com] | [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
 
